@@ -1,2 +1,2 @@
 # newton
-Pulling electron together
+mafintosh/electron-prebuilt on steroids.
